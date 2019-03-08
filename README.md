@@ -11,3 +11,8 @@ The individual project is developed on top the sample Morgage Process with follo
 2. It allows system user to pre-define [a list of blacklisted SSN](https://github.com/ddgone2far/NUS_ISS_2019_JAN_MR_IND/blob/master/SSNBlackList.xlsx) and uses it to filter out unfavorable application.
 
 3. Added assessment based on age and annual income.
+
+4. For the ease of using and demostration purpose, all task will be assigned to user:wbadmin
+
+---
+##Note: Please login using username/password - **wbadmin/wbadmin**
